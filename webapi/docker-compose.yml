@@ -1,0 +1,8 @@
+services:
+	sql:
+		image: "msc.clopa.com"
+		environment:
+			ACCEPT_EULA: "Y"
+			MSSQL_SA_PASSWORD : "Y"
+		platform : "linux/amd64"
+		ports : "4433:4433"

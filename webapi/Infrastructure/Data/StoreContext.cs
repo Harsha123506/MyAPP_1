@@ -10,7 +10,15 @@ public class StoreContext: DbContext
 	public StoreContext(DbContextOptions options) : base(options)
 	{
 
+
 	}
 
-	DbSet<Product> products { get; set; };
+	DbSet<Product> products { get; set; }
+
+	protected override void OnModelCreating(ModelBuilder Builder)
+	{
+		base.OnModelCreating(Builder);
+		Builder.ApplyConfigurationsFromAssembly(typeof(ProductConfig).Assembly);
+	}
+
 }
