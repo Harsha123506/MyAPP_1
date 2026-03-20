@@ -13,7 +13,7 @@ public class StoreContext: DbContext
 
 	}
 
-	DbSet<Product> products { get; set; }
+	public DbSet<Product> products { get; set; }
 
 	protected override void OnModelCreating(ModelBuilder Builder)
 	{
