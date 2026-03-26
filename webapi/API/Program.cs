@@ -11,7 +11,8 @@ builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 builder.Services.AddDbContext<StoreContext>(opt =>
 {
-    opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString"));
+    //opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString"));
+    opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnectionString2"));
 });
 
 var app = builder.Build();
