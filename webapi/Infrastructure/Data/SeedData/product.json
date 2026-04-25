@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "AeroStream Wireless Mouse",
+    "Description": "An ergonomic wireless mouse with adjustable DPI and 2.4GHz connectivity for seamless office work.",
+    "Price": 29.99,
+    "ProductUrl": "https://example.com/products/aerostream-wireless-mouse",
+    "Type": "Electronics",
+    "Brand": "Logitech",
+    "QuantityInStock": 150
+  },
+  {
+    "Name": "Summit Peak Hiking Boots",
+    "Description": "Waterproof leather hiking boots with reinforced soles for high-altitude trekking.",
+    "Price": 125.50,
+    "ProductUrl": "https://example.com/products/summit-peak-hiking-boots",
+    "Type": "Footwear",
+    "Brand": "Strider",
+    "QuantityInStock": 42
+  },
+  {
+    "Name": "Velvet Roast Coffee Beans",
+    "Description": "Fair-trade dark roast beans with hints of dark chocolate and toasted almonds.",
+    "Price": 18.00,
+    "ProductUrl": "https://example.com/products/velvet-roast-coffee-beans",
+    "Type": "Food & Beverage",
+    "Brand": "TerraBrew",
+    "QuantityInStock": 300
+  },
+  {
+    "Name": "Titanium Chef's Knife",
+    "Description": "Precision-forged 8-inch blade with an ergonomic handle for professional-grade kitchen performance.",
+    "Price": 89.00,
+    "ProductUrl": "https://example.com/products/titanium-chefs-knife",
+    "Type": "Kitchen",
+    "Brand": "Forge",
+    "QuantityInStock": 25
+  },
+  {
+    "Name": "Lumina Smart LED Strip",
+    "Description": "16-foot RGB LED strip with WiFi control and synchronization with music and movies.",
+    "Price": 34.95,
+    "ProductUrl": "https://example.com/products/lumina-smart-led-strip",
+    "Type": "Smart Home",
+    "Brand": "Lumina",
+    "QuantityInStock": 88
+  },
+  {
+    "Name": "Zenith Cork Yoga Mat",
+    "Description": "Eco-friendly, non-slip cork yoga mat designed for hot yoga and intense workouts.",
+    "Price": 55.00,
+    "ProductUrl": "https://example.com/products/zenith-cork-yoga-mat",
+    "Type": "Fitness",
+    "Brand": "Zenith",
+    "QuantityInStock": 60
+  },
+  {
+    "Name": "Quantum X1 Mechanical Keyboard",
+    "Description": "Full-size mechanical keyboard featuring blue tactile switches and custom RGB lighting profiles.",
+    "Price": 110.00,
+    "ProductUrl": "https://example.com/products/quantum-x1-mechanical-keyboard",
+    "Type": "Electronics",
+    "Brand": "Nexus",
+    "QuantityInStock": 15
+  },
+  {
+    "Name": "Urban Explorer Backpack",
+    "Description": "Minimalist 20L backpack with a padded laptop sleeve and water-resistant exterior.",
+    "Price": 65.00,
+    "ProductUrl": "https://example.com/products/urban-explorer-backpack",
+    "Type": "Apparel",
+    "Brand": "Patagonia",
+    "QuantityInStock": 110
+  },
+  {
+    "Name": "HydroFlow Steel Bottle",
+    "Description": "Double-walled vacuum insulated water bottle that keeps drinks cold for 24 hours.",
+    "Price": 24.99,
+    "ProductUrl": "https://example.com/products/hydroflow-steel-bottle",
+    "Type": "Fitness",
+    "Brand": "Velocity",
+    "QuantityInStock": 200
+  },
+  {
+    "Name": "CoreStrength Dumbbell Set",
+    "Description": "Adjustable 25lb dumbbell set with a compact design for home gym efficiency.",
+    "Price": 149.99,
+    "ProductUrl": "https://example.com/products/corestrength-dumbbell-set",
+    "Type": "Fitness",
+    "Brand": "IronWorks",
+    "QuantityInStock": 30
+  }
+]
